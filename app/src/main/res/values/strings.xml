@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mikapp</string>
+    <string name="click_hint">Click the button for a MJ line!</string>
+    <string name="button_text">Shamone!</string>
+</resources>
